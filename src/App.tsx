@@ -73,8 +73,7 @@ export default function App() {
     'Palace',
     'Heritage Flagship',
     'Himalayan Retreat',
-    'Coastal Sanctuary',
-    'Wilderness Lodge',
+     'Wilderness Lodge',
   ];
 
   const cities = ['All', 'Udaipur', 'Mumbai', 'Jaipur', 'Rishikesh', 'Goa', 'Ranthambore'];
