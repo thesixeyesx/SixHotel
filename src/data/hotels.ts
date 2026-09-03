@@ -3,7 +3,7 @@ import { Hotel } from '../types';
 export const HOTELS: Hotel[] = [
   {
     id: 'tse-lake-palace-udaipur',
-    name: 'The Six Eyes Lake Palace',
+    name: 'The Six Eyesx Lake Palace',
     tagline: 'The Floating Marble Jewel of Lake Pichola',
     city: 'Udaipur',
     state: 'Rajasthan',
