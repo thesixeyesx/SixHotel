@@ -1,0 +1,6 @@
+{
+  "name": "The Six Eyes - Luxury Hotels & Palaces",
+  "description": "Exquisite luxury palaces, heritage retreats, and signature dining inspired by timeless royal hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
