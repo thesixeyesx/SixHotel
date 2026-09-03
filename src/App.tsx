@@ -73,6 +73,7 @@ export default function App() {
     'Palace',
     'Heritage Flagship',
     'Himalayan Retreat',
+       'Coastal Sanctuary',
      'Wilderness Lodge',
   ];
 
